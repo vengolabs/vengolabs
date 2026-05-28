@@ -1,5 +1,5 @@
 Ownerdomain=vengolabs.com
-#app-ads.txt Updated 12/07/2025
+#app-ads.txt Updated 5/28/2026
 
 
 #MagniteCTV
@@ -955,3 +955,19 @@ smartadserver.com, 3864, RESELLER
 mediafuse.com, 720, RESELLER
 
 viooh.com, VENGO_LABS, DIRECT
+
+#VideoElephant
+telaria.com,bsw7n-zawm0,DIRECT,1a4e959a1b50034a
+tremorhub.com,bsw7n-zawm0,DIRECT,1a4e959a1b50034a
+hcodemedia.com, 696, RESELLER
+smartadserver.com, 5019, RESELLER, 060d053dcf45cbf3
+Xapads.com, 226059, RESELLER
+kargo.com, 8979, RESELLER
+krushmedia.com, AJxF6R569a9M6CaTvK, RESELLER
+sabio.us, 100173, RESELLER, 96ed93aaa9795702
+openx.com, 562874258, RESELLER, 6a698e2ec38604c6
+sharethrough.com, ID3lTWR9, RESELLER, d53b998a7bd4ecd2
+indicue.com, 641, RESELLER
+fasttvltd.com, 786cb384, RESELLER
+loopme.com, 12746, RESELLER, 6c8d5f95897a5a3b
+engagemedia.tv, 1109, RESELLER
