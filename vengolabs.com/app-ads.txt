@@ -1,5 +1,5 @@
 Ownerdomain=vengolabs.com
-#app-ads.txt Updated 5/28/2026
+#app-ads.txt Updated 7/29/2026
 
 
 #MagniteCTV
@@ -971,3 +971,7 @@ indicue.com, 641, RESELLER
 fasttvltd.com, 786cb384, RESELLER
 loopme.com, 12746, RESELLER, 6c8d5f95897a5a3b
 engagemedia.tv, 1109, RESELLER
+
+#Exco
+inventorypartnerdomain=playbuzz.com
+playbuzz.com, 001Qw00000eTKvcIAG, DIRECT
