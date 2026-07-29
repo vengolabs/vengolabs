@@ -1,4 +1,4 @@
-# Ads.txt vengolabs.com 2024-01-02
+# Ads.txt vengolabs.com 2026-07-29
 
 #MagniteCTV - added 2023-06-01
 telaria.com,fz00k-vgy80,RESELLER,1a4e959a1b50034a
@@ -423,3 +423,7 @@ indicue.com, 641, RESELLER
 fasttvltd.com, 786cb384, RESELLER
 loopme.com, 12746, RESELLER, 6c8d5f95897a5a3b
 engagemedia.tv, 1109, RESELLER
+
+#Exco
+inventorypartnerdomain=playbuzz.com
+playbuzz.com, 001Qw00000eTKvcIAG, DIRECT
