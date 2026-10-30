@@ -975,3 +975,28 @@ engagemedia.tv, 1109, RESELLER
 #Exco
 inventorypartnerdomain=playbuzz.com
 playbuzz.com, 001Qw00000eTKvcIAG, DIRECT
+
+#LoopMe
+loopme.com, 20164, DIRECT, 6c8d5f95897a5a3b
+smoot.ai, 100087, RESELLER
+kidoz.net, 15580, RESELLER, a109366414b7335e
+prado.co, 15580, RESELLER
+meazy.tech, 88472, RESELLER
+freewheel.tv,536110-r-524565, RESELLER
+freewheel.tv,536110-r-523319, RESELLER
+pubnative.net, 1018060, RESELLER, d641df8625486a7b
+smaato.com, 1100060251, RESELLER, 07bcf65f187117b4
+adgrid.io, 38006, RESELLER
+showheroes.com, 7658, RESELLER
+krushmedia.com, AJxF6R662a9M6CaTvK, RESELLER
+boostappi.com, 10013, RESELLER
+onetag.com, 8c90176af2e65c8, RESELLER
+adtarget.com.tr, 739050, RESELLER
+apester.com, 17091, RESELLER
+sharethrough.com, 4625, RESELLER, d53b998a7bd4ecd2
+eliteappgrade.com, 494350, RESELLER
+pokkt.com, 7606, RESELLER, c45702d9311e25fd
+appads.in, 107606, RESELLER
+admixer.net, eab09ea6-bcf7-4eff-965d-b4f43962c73c, RESELLER
+yeahmobi.com, 5135284, Reseller
+madopi.media, 161153, RESELLER
